@@ -8,3 +8,8 @@
 > “Just because it’s what’s done doesn’t mean it’s what should be done!”
 >
 > Cinderella
+
+> “There are only two hard things in Computer Science: cache
+> invalidation and naming things.”
+>
+> Phil Karlton
